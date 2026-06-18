@@ -1,4 +1,3 @@
-```markdown
 # AstrBot 广告管理插件 (Ad Manager)
 
 [![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-blue)](https://docs.astrbot.app/)
@@ -25,7 +24,6 @@
 - **轻量降级**：当 AI 服务不可用时，自动降级为简单规则匹配（联系方式、链接等）。
 - **仅限 Telegram**：专门针对 Telegram 适配器设计，不影响其他平台。
 
----
 
 ## 📦 安装
 
