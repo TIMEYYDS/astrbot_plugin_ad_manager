@@ -140,25 +140,3 @@ MIT © TIMEYYDS
 ---
 
 **Enjoy! 🎉
-欢迎提交 Issue 和 Pull Request。
-请确保代码符合 AstrBot 插件开发规范。
-
----
-
-📄 许可证
-
-MIT © TIMEYYDS
-
----
-
-📞 支持
-
-· 官方文档：AstrBot Docs
-· 问题反馈：请在本仓库提交 Issue
-· 仓库地址：https://github.com/TIMEYYDS/astrbot_plugin_ad_manager
-
----
-
-Enjoy! 🎉
-
-```
